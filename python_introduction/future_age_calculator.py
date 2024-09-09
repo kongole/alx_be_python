@@ -1,3 +1,3 @@
-age = int(input("How old are you?: "))  # Convert input to an integer
-print("In 2050, you will be", age + 23, "years old.")
+age = int(input("How old are you?: "))  # Prompt the user for their age
+print("In 2050, you will be", age + 23, "years old.")  # Calculate future age
 
