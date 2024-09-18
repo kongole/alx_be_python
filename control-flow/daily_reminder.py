@@ -31,8 +31,8 @@ def main():
     else:
         reminder += ". Consider completing it when you have free time."
 
-    # Print the customized reminder
-    print("\nReminder:", reminder)
+    # Print the customized reminder in the required format
+    print(f"Reminder: {reminder}")
 
 if __name__ == "__main__":
     main()
